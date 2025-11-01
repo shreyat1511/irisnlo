@@ -58,6 +58,7 @@ cd jewellery-backend
 npm install
 npm run dev
 
+--
 
 ## 👥 Team Members
 Shreya Thapa — Full Stack Developer
