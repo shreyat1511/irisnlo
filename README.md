@@ -1,4 +1,4 @@
-# 💎 IrisNlo — Online Jewellery & Accessories Store
+# 💎 Iris&Lo — Online Jewellery & Accessories Store
 
 IrisNlo is a full-stack **MERN** (MongoDB, Express.js, React.js, Node.js) web application designed for a seamless online jewellery and accessories shopping experience.  
 The platform provides an elegant interface for users to browse collections, manage their carts, and place orders — while allowing admins to manage inventory efficiently.
