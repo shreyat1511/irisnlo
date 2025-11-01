@@ -41,12 +41,6 @@ irisnlo/
 
 ---
 
-## 👥 Team Members
-Shreya Thapa — Full Stack Developer, 
-Aditi Verma — Full Stack Developer
-
----
-
 ## 📜 License
 This project is licensed under the MIT License
 
