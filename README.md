@@ -48,15 +48,16 @@ Clone the repository and install dependencies for both frontend and backend.
 git clone https://github.com/shreyat1511/irisnlo.git
 cd irisnlo
 
-**For frontend**
+# For frontend
 cd jewellery-frontend
 npm install
 npm start
 
-**For backend**
+# For backend
 cd jewellery-backend
 npm install
 npm run dev
+
 
 ## 👥 Team Members
 Shreya Thapa — Full Stack Developer
